@@ -1,0 +1,20 @@
+[INFO ] 2020-04-23 03:25:32.038 [main] Log4j_Demo - This is information Message
+[ERROR] 2020-04-23 03:25:32.042 [main] Log4j_Demo - This is an Error message
+[WARN ] 2020-04-23 03:25:32.042 [main] Log4j_Demo - This is warning Message
+[FATAL] 2020-04-23 03:25:32.043 [main] Log4j_Demo - This is fatel error
+[TRACE] 2020-04-23 03:25:32.043 [main] Log4j_Demo - This is trace level
+[INFO ] 2020-04-23 03:27:21.674 [main] Log4j_Demo - This is information Message
+[ERROR] 2020-04-23 03:27:21.678 [main] Log4j_Demo - This is an Error message
+[WARN ] 2020-04-23 03:27:21.678 [main] Log4j_Demo - This is warning Message
+[FATAL] 2020-04-23 03:27:21.678 [main] Log4j_Demo - This is fatel error
+[TRACE] 2020-04-23 03:27:21.678 [main] Log4j_Demo - This is trace level
+[INFO ] 2020-04-23 03:39:58.299 [main] Log4j_Demo - This is information Message
+[ERROR] 2020-04-23 03:39:58.303 [main] Log4j_Demo - This is an Error message
+[WARN ] 2020-04-23 03:39:58.303 [main] Log4j_Demo - This is warning Message
+[FATAL] 2020-04-23 03:39:58.303 [main] Log4j_Demo - This is fatel error
+[TRACE] 2020-04-23 03:39:58.303 [main] Log4j_Demo - This is trace level
+[INFO ] 2020-04-23 03:43:36.838 [main] Log4j_Demo - This is information Message
+[ERROR] 2020-04-23 03:43:36.842 [main] Log4j_Demo - This is an Error message
+[WARN ] 2020-04-23 03:43:36.842 [main] Log4j_Demo - This is warning Message
+[FATAL] 2020-04-23 03:43:36.842 [main] Log4j_Demo - This is fatel error
+[TRACE] 2020-04-23 03:43:36.842 [main] Log4j_Demo - This is trace level

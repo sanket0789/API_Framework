@@ -24,10 +24,10 @@ public class API_Basics {
 
 		//Validate if Add Place API is working as expected.
 
-		//Rest Assurad API works on below 3 principals.
+		//Rest Assured API works on below 3 principals.
 		//Given - all input details
 		//When - Submit API
-		//Then - Validate the responce.
+		//Then - Validate the response.
 
 		RestAssured.baseURI="https://rahulshettyacademy.com";
 

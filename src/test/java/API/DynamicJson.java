@@ -3,8 +3,8 @@ package API;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import Files.Payload;
-import Files.ReUsableMethods;
+import API_Payload_Files.Payload;
+import API_Payload_Files.ReUsableMethods;
 import io.restassured.RestAssured;
 import io.restassured.path.json.JsonPath;
 

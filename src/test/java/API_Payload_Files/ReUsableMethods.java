@@ -1,4 +1,4 @@
-package Files;
+package API_Payload_Files;
 
 import io.restassured.path.json.JsonPath;
 

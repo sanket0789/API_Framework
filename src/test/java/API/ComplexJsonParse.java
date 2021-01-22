@@ -2,7 +2,7 @@ package API;
 
 import org.junit.Assert;
 
-import Files.Payload;
+import API_Payload_Files.Payload;
 import io.restassured.path.json.JsonPath;
 
 public class ComplexJsonParse {

@@ -3,12 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Files.DynamicJson">
+      <class name="API.Get_Payload_From_External_File">
         <methods>
-          <include name="AddBook" invocation-numbers="0 1"/>
-          <include name="DeleteBook"/>
+          <include name="Add_Place"/>
         </methods>
-      </class> <!-- Files.DynamicJson -->
+      </class> <!-- API.Get_Payload_From_External_File -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -77,5 +77,19 @@ public static String CoursePrice()
 					+ "} \r\n"
 					+ "";
 		}
+		
+		public static String Jira_Add_Bug()
+		{
+			
+			return "{\r\n"
+					+ "    \"fields\" : \r\n"
+					+ "    {\r\n"
+					+ "       \"project\" :{ \"key\": \"AUT\"},\r\n"
+					+ "       \"summary\": \"Credit card transaction failed - REST API\",\r\n"
+					+ "       \"description\": \"this bug is created from APIg\",\r\n"
+					+ "       \"issuetype\": {\"name\": \"Bug\"}\r\n"
+					+ "    }\r\n"
+					+ "}";
+		}
 	
 }

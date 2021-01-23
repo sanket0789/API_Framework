@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="API.Get_Payload_From_External_File">
+      <class name="Jira_API_Automation.Add_Bug">
         <methods>
-          <include name="Add_Place"/>
+          <include name="Create_Issue"/>
         </methods>
-      </class> <!-- API.Get_Payload_From_External_File -->
+      </class> <!-- Jira_API_Automation.Add_Bug -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

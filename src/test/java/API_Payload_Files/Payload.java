@@ -91,5 +91,20 @@ public static String CoursePrice()
 					+ "    }\r\n"
 					+ "}";
 		}
+		
+		public static String Add_Issue_Comment() {
+
+			return "{\r\n"
+					+ "    \"body\": \"This is my first comment through REST API\",\r\n"
+					+ "    \r\n"
+					+ "    \"visibility\": \r\n"
+					+ "    {\r\n"
+					+ "    \"type\" : \"role\",\r\n"
+					+ "    \r\n"
+					+ "    \"value\": \"Administrators\"\r\n"
+					+ "    }\r\n"
+					+ "}   ";
+
+		}
 	
 }

@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Jira_API_Automation.Add_Attachment">
+      <class name="Jira_API_Automation.Jira_Get_Issue">
         <methods>
-          <include name="attachment"/>
+          <include name="Get_Issue"/>
         </methods>
-      </class> <!-- Jira_API_Automation.Add_Attachment -->
+      </class> <!-- Jira_API_Automation.Jira_Get_Issue -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -20,4 +20,5 @@ public class location {
 		this.longitude = longitude;
 	}
 	
+	
 }

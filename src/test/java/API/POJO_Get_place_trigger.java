@@ -5,6 +5,7 @@ import static io.restassured.RestAssured.given;
 import org.testng.annotations.Test;
 
 import POJO_Class.Get_Place_API;
+import POJO_Class.location;
 import io.restassured.RestAssured;
 import io.restassured.parsing.Parser;
 
@@ -31,8 +32,10 @@ public class POJO_Get_place_trigger {
 			System.out.println(Get.getTypes());
 			System.out.println(Get.getWebsite());
 			System.out.println(Get.getLanguage());
-		
 			
+			System.out.println("The Latitude is : " + Get.getLocation().getLatitude());
+			System.out.println("The Longtitude is : " + Get.getLocation().getLongitude());
+
 
 	System.out.println("===================================================================");
 	

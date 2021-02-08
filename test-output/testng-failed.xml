@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="API.POJO_Get_place_trigger">
+      <class name="API.Rahul_Pojo_Trigger">
         <methods>
-          <include name="pojo_get_place"/>
+          <include name="Pojo"/>
         </methods>
-      </class> <!-- API.POJO_Get_place_trigger -->
+      </class> <!-- API.Rahul_Pojo_Trigger -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

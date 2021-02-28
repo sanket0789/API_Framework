@@ -7,17 +7,17 @@ public class Location_Serialize {
 		private double lng;
 		
 		//Getters & Setters
-		public double getLatitude() {
+		public double getLat() {
 			return lat;
 		}
-		public void setLatitude(double latitude) {
-			this.lat = latitude;
+		public void setLat(double lat) {
+			this.lat = lat;
 		}
-		public double getLongitude() {
+		public double getLng() {
 			return lng;
 		}
-		public void setLongitude(double longitude) {
-			this.lng = longitude;
+		public void setLng(double lng) {
+			this.lng = lng;
 		}
 		
 }

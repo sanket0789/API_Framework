@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="API.Rahul_Pojo_Trigger">
+      <class name="Serializations.Serialize_Main_Class">
         <methods>
-          <include name="Pojo"/>
+          <include name="Serialize_Method"/>
         </methods>
-      </class> <!-- API.Rahul_Pojo_Trigger -->
+      </class> <!-- Serializations.Serialize_Main_Class -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

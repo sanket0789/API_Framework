@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Serializations.Serialize_Main_Class">
+      <class name="Web_Automation.Kiosk">
         <methods>
-          <include name="Serialize_Method"/>
+          <include name="Kiosk_Home"/>
         </methods>
-      </class> <!-- Serializations.Serialize_Main_Class -->
+      </class> <!-- Web_Automation.Kiosk -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

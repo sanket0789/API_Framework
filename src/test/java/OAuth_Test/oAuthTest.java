@@ -1,4 +1,4 @@
-package demo;
+package OAuth_Test;
 
 import static io.restassured.RestAssured.given;
 

@@ -82,7 +82,7 @@ public class Spec_Builder_Class {
 		RequestSpecification get =given().spec(Request) ;
 		
 		
-		String res = get.when().get("maps/api/place/get/json").then().assertThat().spec(Response).log().all()
+		String resp = get.when().get("maps/api/place/get/json").then().assertThat().spec(Response).log().all()
 		.extract().response().asString();
 
 		System.out.println("Here is the result of GET request : " + get);
